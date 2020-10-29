@@ -1,5 +1,0 @@
-/* styles for moodle cloud */
-/* @wouhexs moodle */
-.list-group-item[data-key~=grades] {
-display: none;
-}
